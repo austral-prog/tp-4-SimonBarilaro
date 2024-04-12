@@ -22,4 +22,3 @@ def line():
     print()
     distancia= math.dist(p1,p2)
     print(f"La distancia entre ellos es: {distancia}")
-line()
